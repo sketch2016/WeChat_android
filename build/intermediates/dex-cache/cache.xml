@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sketchxu/.android/build-cache/275b02031cb6beaec273b2ea205295c7ce50168c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/sketchxu/IdeaProjects/WeChat/app/build/intermediates/pre-dexed/debug/classes_86baa83a27a4c814a1fe03dffb163487179f1807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sketchxu/IdeaProjects/WeChat/app/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/sketchxu/IdeaProjects/WeChat/app/build/intermediates/pre-dexed/debug/gson-2.8.0_34a12dbee289707dbc8d327c82badac8e2c9d599.jar" />
+    </item>
+
+</items>

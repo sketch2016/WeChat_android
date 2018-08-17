@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_padding_size">10dp</dimen>
+    <dimen name="login_margin_top">50dp</dimen>
+    <dimen name="login_content_margin">20dp</dimen>
+    <dimen name="tabitem_margin_top">10dp</dimen>
+    <dimen name="tabitem_size">30dp</dimen>
+    <dimen name="user_name_textsize">20sp</dimen>
+    <dimen name="current_msg_textsize">15sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

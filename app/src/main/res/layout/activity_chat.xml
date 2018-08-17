@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    </android.support.v7.widget.RecyclerView>
+    <LinearLayout
+        android:padding="@dimen/tabitem_margin_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:src="@mipmap/ic_launcher"
+            android:layout_width="@dimen/tabitem_size"
+            android:layout_height="@dimen/tabitem_size"/>
+        <EditText
+            android:id="@+id/edit_msg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+        <ImageView
+            android:src="@mipmap/ic_launcher"
+            android:id="@+id/emoji"
+            android:layout_width="@dimen/tabitem_size"
+            android:layout_height="@dimen/tabitem_size"/>
+        <ImageView
+            android:id="@+id/send"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginLeft="20dp"
+            android:layout_width="@dimen/tabitem_size"
+            android:layout_height="@dimen/tabitem_size"/>
+    </LinearLayout>
+
+</LinearLayout>
